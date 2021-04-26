@@ -1,4 +1,4 @@
-#Anime
+## Anime
 
 | **Layer 2** |                             **Painting Style**                             |                                 **Hair Style**                                 |                                                                            |
 |     :-:     |                                    :-:                                     |                                      :-:                                       |                                    :-:                                     |
