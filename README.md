@@ -147,7 +147,7 @@ If you find [EigenGAN](https://arxiv.org/pdf/2104.12476.pdf) useful in your rese
 
     @article{he2021eigengan,
       title={EigenGAN: Layer-Wise Eigen-Learning for GANs},
-      author={Zhenliang He and Meina Kan and Shiguang Shan},
+      author={He, Zhenliang and Kan, Meina and Shan, Shiguang},
       journal={arXiv:2104.12476},
       year={2021}
     }
