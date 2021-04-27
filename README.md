@@ -14,9 +14,9 @@
 
 <hr style="height:1px" />
 
-# <p align="center"> [EigenGAN](https://arxiv.org/abs/2104.12476) </p>
+# <p align="center"> [EigenGAN](https://arxiv.org/pdf/2104.12476.pdf) </p>
 
-**TensorFlow** implementation of [**EigenGAN**: Layer-Wise Eigen-Learning for GANs](https://arxiv.org/abs/2104.12476)
+**TensorFlow** implementation of [**EigenGAN**: Layer-Wise Eigen-Learning for GANs](https://arxiv.org/pdf/2104.12476.pdf)
 &nbsp;
 &nbsp;
 &nbsp;
@@ -143,7 +143,7 @@
 
 ## Citation
 
-If you find [EigenGAN](https://arxiv.org/abs/2104.12476) useful in your research works, please consider citing:
+If you find [EigenGAN](https://arxiv.org/pdf/2104.12476.pdf) useful in your research works, please consider citing:
 
     @article{he2021eigengan,
       title={EigenGAN: Layer-Wise Eigen-Learning for GANs},
