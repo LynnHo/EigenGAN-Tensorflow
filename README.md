@@ -14,13 +14,13 @@
 
 <hr style="height:1px" />
 
-# <p align="center"> [EigenGAN]() </p>
+# <p align="center"> [EigenGAN](https://arxiv.org/abs/2104.12476) </p>
 
-**TensorFlow** implementation of [**EigenGAN**: Layer-Wise Eigen-Learning for GANs]()
+**TensorFlow** implementation of [**EigenGAN**: Layer-Wise Eigen-Learning for GANs](https://arxiv.org/abs/2104.12476)
 &nbsp;
 &nbsp;
 &nbsp;
-<p align="center"> <img src="./pics/schema.jpg" width="100%" /> </p>
+<p align="center"> <img src="./pics/schema.svg" width="100%" /> </p>
 
 ## Usage
 
@@ -140,3 +140,14 @@
         ```
 
     - testing (see above)
+
+## Citation
+
+If you find [EigenGAN](https://arxiv.org/abs/2104.12476) useful in your research works, please consider citing:
+
+    @article{he2021eigengan,
+      title={EigenGAN: Layer-Wise Eigen-Learning for GANs},
+      author={Zhenliang He and Meina Kan and Shiguang Shan},
+      journal={arXiv:2104.12476},
+      year={2021}
+    }
