@@ -10,7 +10,7 @@
 |                           **Flush & Eye Color**                           |                             **Mouth Shape**                             |                               **Hair Color**                               |                             **Hue (Orange-Blue)**                              |
 | <img src="pics/attributes_gif_anime/4-1_flush+eye_color.gif" width="200"> |  <img src="pics/attributes_gif_anime/4-2_mouth_shape.gif" width="200">  |    <img src="pics/attributes_gif_anime/5-1_hair_color.gif" width="200">    |         <img src="pics/attributes_gif_anime/6-1_hue.gif" width="200">          |
 
-### [More Dimensions](./results.md)
+#### [More Unsupervisedly Learned Dimensions](./results.md)
 
 <hr style="height:1px" />
 
