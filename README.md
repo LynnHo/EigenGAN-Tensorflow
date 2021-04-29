@@ -10,17 +10,23 @@
 |                           **Flush & Eye Color**                           |                             **Mouth Shape**                             |                               **Hair Color**                               |                             **Hue (Orange-Blue)**                              |
 | <img src="pics/attributes_gif_anime/4-1_flush+eye_color.gif" width="200"> |  <img src="pics/attributes_gif_anime/4-2_mouth_shape.gif" width="200">  |    <img src="pics/attributes_gif_anime/5-1_hair_color.gif" width="200">    |         <img src="pics/attributes_gif_anime/6-1_hue.gif" width="200">          |
 
-#### [More Unsupervisedly Learned Dimensions](./results.md)
+### [More Unsupervisedly Learned Dimensions](./results.md)
 
-<hr style="height:1px" />
+#
 
 # <p align="center"> [EigenGAN](https://arxiv.org/pdf/2104.12476.pdf) </p>
 
-**TensorFlow** implementation of [**EigenGAN**: Layer-Wise Eigen-Learning for GANs](https://arxiv.org/pdf/2104.12476.pdf)
-&nbsp;
-&nbsp;
-&nbsp;
-<p align="center"> <img src="./pics/schema.svg" width="100%" /> </p>
+- **TensorFlow** implementation of [**EigenGAN**: Layer-Wise Eigen-Learning for GANs](https://arxiv.org/pdf/2104.12476.pdf)
+
+- Schema
+
+    <p align="center"> <img src="./pics/schema.svg" width="100%" /> </p>
+
+- **Manifold** Perspective
+
+    <p align="center"> <img src="./pics/manifold.svg" width="100%" /> </p>
+
+#
 
 ## Usage
 
