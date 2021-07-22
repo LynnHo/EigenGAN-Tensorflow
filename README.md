@@ -151,9 +151,9 @@
 
 If you find [EigenGAN](https://arxiv.org/pdf/2104.12476.pdf) useful in your research works, please consider citing:
 
-    @article{he2021eigengan,
+    @inproceedings{he2021eigengan,
       title={EigenGAN: Layer-Wise Eigen-Learning for GANs},
       author={He, Zhenliang and Kan, Meina and Shan, Shiguang},
-      journal={arXiv:2104.12476},
+      booktitle={International Conference on Computer Vision (ICCV)},
       year={2021}
     }
