@@ -18,6 +18,8 @@
 
 - **TensorFlow** implementation of [**EigenGAN**: Layer-Wise Eigen-Learning for GANs](https://arxiv.org/pdf/2104.12476.pdf)
 
+- [Video](https://www.youtube.com/watch?v=E_88BajgIOs&ab_channel=ICCV2021)
+
 - Schema
 
     <p align="center"> <img src="./pics/schema.svg" width="100%" /> </p>
