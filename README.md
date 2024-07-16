@@ -76,14 +76,14 @@
             python ./scripts/align.py
             ```
 
-    - [Anime](https://www.gwern.net/Crops)
+    - [Anime](https://gwern.net/crop#portraits-dataset)
 
         - download the dataset
 
             ```console
             mkdir -p ./data/anime
 
-            rsync --verbose --recursive rsync://78.46.86.149:873/biggan/portraits/ ./data/anime/original_imgs
+            rsync --verbose --recursive rsync://176.9.41.242:873/biggan/portraits/ ./data/anime/original_imgs
             ```
 
         - process the data
