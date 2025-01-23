@@ -10,23 +10,28 @@
 |                           **Flush & Eye Color**                           |                             **Mouth Shape**                             |                               **Hair Color**                               |                             **Hue (Orange-Blue)**                              |
 | <img src="pics/attributes_gif_anime/4-1_flush+eye_color.gif" width="100%"> |  <img src="pics/attributes_gif_anime/4-2_mouth_shape.gif" width="100%">  |    <img src="pics/attributes_gif_anime/5-1_hair_color.gif" width="100%">    |         <img src="pics/attributes_gif_anime/6-1_hue.gif" width="100%">          |
 
-### [More Unsupervisedly Learned Dimensions](./results.md)
+[*more unsupervisedly learned dimensions*](./results.md)
 
-#
+<h1 align="center">
+    <a href="https://arxiv.org/pdf/2104.12476.pdf">EigenGAN</a>
+</h1>
 
-# <p align="center"> [EigenGAN (ICCV'21)](https://arxiv.org/pdf/2104.12476.pdf) <br> <sub> [video](https://www.youtube.com/watch?v=E_88BajgIOs&ab_channel=ICCV2021) </sub> </br> </p>
+<a href="https://arxiv.org/pdf/2104.12476.pdf"><img src="https://img.shields.io/badge/ICCV 2021-3A98B9?label=%F0%9F%93%9D&labelColor=FFFDD0" style="height: 28px" /></a>
+<a href="https://www.youtube.com/watch?v=E_88BajgIOs&ab_channel=ICCV2021"><img src="https://img.shields.io/badge/Video-e0b8b8?label=%F0%9F%93%B9&labelColor=FFFDD0" style="height: 28px" /></a>
 
-- **TensorFlow** implementation of [**EigenGAN**: Layer-Wise Eigen-Learning for GANs](https://arxiv.org/pdf/2104.12476.pdf)
+> **[EigenGAN: Layer-Wise Eigen-Learning for GANs](https://arxiv.org/pdf/2104.12476.pdf)** \
+> [Zhenliang He](https://lynnho.github.io)<sup>1,2</sup>, [Meina Kan](https://scholar.google.com/citations?user=4AKCKKEAAAAJ)<sup>1,2</sup>, [Shiguang Shan](https://scholar.google.com/citations?user=Vkzd7MIAAAAJ)<sup>1,2,3</sup> \
+> <sup>1</sup>Key Lab of Intelligent Information Processing, Institute of Computing Technology, CAS, China \
+> <sup>2</sup>University of Chinese Academy of Sciences, China \
+> <sup>3</sup>Peng Cheng Laboratory, Shenzhen, China
 
-- Schema
+### Schema
 
-    <p align="center"> <img src="./pics/schema.svg" width="100%" /> </p>
+<p align="center"> <img src="./pics/schema.svg" width="100%" /> </p>
 
-- **Manifold** Perspective
+### **Manifold** Perspective
 
-    <p align="center"> <img src="./pics/manifold.svg" width="100%" /> </p>
-
-#
+<p align="center"> <img src="./pics/manifold.svg" width="100%" /> </p>
 
 ## Usage
 
