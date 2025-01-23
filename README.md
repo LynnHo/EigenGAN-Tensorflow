@@ -23,7 +23,7 @@
 > [Zhenliang He](https://lynnho.github.io)<sup>1,2</sup>, [Meina Kan](https://scholar.google.com/citations?user=4AKCKKEAAAAJ)<sup>1,2</sup>, [Shiguang Shan](https://scholar.google.com/citations?user=Vkzd7MIAAAAJ)<sup>1,2,3</sup> \
 > <sup>1</sup>Key Lab of Intelligent Information Processing, Institute of Computing Technology, CAS, China \
 > <sup>2</sup>University of Chinese Academy of Sciences, China \
-> <sup>3</sup>Peng Cheng Laboratory, Shenzhen, China
+> <sup>3</sup>Peng Cheng Laboratory, China
 
 ### Schema
 
