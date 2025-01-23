@@ -14,7 +14,7 @@
 
 #
 
-# <p align="center"> [EigenGAN (ICCV 2021)](https://arxiv.org/pdf/2104.12476.pdf) <br> <sub> [video](https://www.youtube.com/watch?v=E_88BajgIOs&ab_channel=ICCV2021) </sub> </br> </p>
+# <p align="center"> [EigenGAN (ICCV'21)](https://arxiv.org/pdf/2104.12476.pdf) <br> <sub> [video](https://www.youtube.com/watch?v=E_88BajgIOs&ab_channel=ICCV2021) </sub> </br> </p>
 
 - **TensorFlow** implementation of [**EigenGAN**: Layer-Wise Eigen-Learning for GANs](https://arxiv.org/pdf/2104.12476.pdf)
 
