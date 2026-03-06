@@ -159,6 +159,6 @@ If you find [EigenGAN](https://arxiv.org/pdf/2104.12476.pdf) useful in your rese
     @inproceedings{he2021eigengan,
       title={EigenGAN: Layer-Wise Eigen-Learning for GANs},
       author={He, Zhenliang and Kan, Meina and Shan, Shiguang},
-      booktitle={International Conference on Computer Vision (ICCV)},
+      booktitle={IEEE International Conference on Computer Vision (ICCV)},
       year={2021}
     }
